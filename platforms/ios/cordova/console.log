@@ -1,0 +1,316 @@
+2014-07-18 10:35:52.307 Workshop[88224:18e03] Multi-tasking -> Device: YES, App: YES
+2014-07-18 10:35:52.314 Workshop[88224:18e03] Unlimited access to network resources
+2014-07-18 10:35:52.321 Workshop[88224:18e03] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-07-18 10:35:52.565 Workshop[88224:18e03] Resetting plugins due to page load.
+2014-07-18 10:35:52.681 Workshop[88224:18e03] Finished load of: file:///Users/robertsc/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/851164AE-B2BA-4C49-8F9F-C734F5313348/Workshop.app/www/index.html
+2014-07-18 10:35:52.762 Workshop[88224:18e03] Received Event: deviceready
+Terminating in response to SpringBoard's termination.
+2014-07-18 10:37:19.659 Workshop[88436:18e03] Multi-tasking -> Device: YES, App: YES
+2014-07-18 10:37:19.666 Workshop[88436:18e03] Unlimited access to network resources
+2014-07-18 10:37:19.668 Workshop[88436:18e03] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-07-18 10:37:19.785 Workshop[88436:18e03] Resetting plugins due to page load.
+2014-07-18 10:37:20.142 Workshop[88436:18e03] Finished load of: file:///Users/robertsc/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/851164AE-B2BA-4C49-8F9F-C734F5313348/Workshop.app/www/index.html
+2014-07-18 10:37:20.158 Workshop[88436:18e03] Received Event: deviceready
+2014-07-18 10:43:31.520 Workshop[89147:18e03] Multi-tasking -> Device: YES, App: YES
+2014-07-18 10:43:31.538 Workshop[89147:18e03] Unlimited access to network resources
+2014-07-18 10:43:31.540 Workshop[89147:18e03] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-07-18 10:43:31.606 Workshop[89147:18e03] Resetting plugins due to page load.
+2014-07-18 10:43:32.236 Workshop[89147:18e03] Finished load of: file:///Users/robertsc/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/851164AE-B2BA-4C49-8F9F-C734F5313348/Workshop.app/www/index.html
+Terminating in response to SpringBoard's termination.
+2014-07-18 13:25:15.062 Workshop[97631:18e03] Multi-tasking -> Device: YES, App: YES
+2014-07-18 13:25:15.069 Workshop[97631:18e03] Unlimited access to network resources
+2014-07-18 13:25:15.122 Workshop[97631:18e03] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-07-18 13:25:15.198 Workshop[97631:18e03] Resetting plugins due to page load.
+2014-07-18 13:25:15.379 Workshop[97631:18e03] Finished load of: file:///Users/robertsc/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/851164AE-B2BA-4C49-8F9F-C734F5313348/Workshop.app/www/index.html
+2014-07-18 13:25:15.427 Workshop[97631:18e03] THREAD WARNING: ['Device'] took '34.325684' ms. Plugin should use a background thread.
+2014-07-18 13:27:12.420 Workshop[98043:18e03] Multi-tasking -> Device: YES, App: YES
+2014-07-18 13:27:12.426 Workshop[98043:18e03] Unlimited access to network resources
+2014-07-18 13:27:12.437 Workshop[98043:18e03] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-07-18 13:27:12.513 Workshop[98043:18e03] Resetting plugins due to page load.
+2014-07-18 13:27:12.927 Workshop[98043:18e03] Finished load of: file:///Users/robertsc/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/851164AE-B2BA-4C49-8F9F-C734F5313348/Workshop.app/www/index.html
+2014-07-18 13:27:12.975 Workshop[98043:18e03] THREAD WARNING: ['Device'] took '33.614258' ms. Plugin should use a background thread.
+2014-07-18 13:27:20.791 Workshop[98043:18e03] THREAD WARNING: ['Notification'] took '244.026123' ms. Plugin should use a background thread.
+2014-07-18 13:29:05.757 Workshop[98452:18e03] Multi-tasking -> Device: YES, App: YES
+2014-07-18 13:29:05.764 Workshop[98452:18e03] Unlimited access to network resources
+2014-07-18 13:29:05.775 Workshop[98452:18e03] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-07-18 13:29:05.843 Workshop[98452:18e03] Resetting plugins due to page load.
+2014-07-18 13:29:06.107 Workshop[98452:18e03] Finished load of: file:///Users/robertsc/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/851164AE-B2BA-4C49-8F9F-C734F5313348/Workshop.app/www/index.html
+2014-07-18 13:29:06.272 Workshop[98452:18e03] THREAD WARNING: ['Device'] took '150.627930' ms. Plugin should use a background thread.
+Terminating in response to SpringBoard's termination.
+2014-07-18 13:30:20.645 Workshop[98837:18e03] Multi-tasking -> Device: YES, App: YES
+2014-07-18 13:30:20.651 Workshop[98837:18e03] Unlimited access to network resources
+2014-07-18 13:30:20.663 Workshop[98837:18e03] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-07-18 13:30:20.772 Workshop[98837:18e03] Resetting plugins due to page load.
+2014-07-18 13:30:21.111 Workshop[98837:18e03] Finished load of: file:///Users/robertsc/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/851164AE-B2BA-4C49-8F9F-C734F5313348/Workshop.app/www/index.html
+2014-07-18 13:30:21.184 Workshop[98837:18e03] THREAD WARNING: ['Device'] took '59.421875' ms. Plugin should use a background thread.
+Terminating in response to SpringBoard's termination.
+2014-07-18 13:40:20.801 Workshop[228:18e03] Multi-tasking -> Device: YES, App: YES
+2014-07-18 13:40:20.811 Workshop[228:18e03] Unlimited access to network resources
+2014-07-18 13:40:20.815 Workshop[228:18e03] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-07-18 13:40:20.845 Workshop[228:18e03] Resetting plugins due to page load.
+2014-07-18 13:40:20.897 Workshop[228:18e03] Finished load of: file:///Users/robertsc/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/851164AE-B2BA-4C49-8F9F-C734F5313348/Workshop.app/www/index.html
+Terminating in response to SpringBoard's termination.
+2014-07-18 13:53:05.818 Workshop[1586:18e03] Multi-tasking -> Device: YES, App: YES
+2014-07-18 13:53:05.825 Workshop[1586:18e03] Unlimited access to network resources
+2014-07-18 13:53:05.836 Workshop[1586:18e03] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-07-18 13:53:05.937 Workshop[1586:18e03] Resetting plugins due to page load.
+2014-07-18 13:53:06.276 Workshop[1586:18e03] Finished load of: file:///Users/robertsc/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/851164AE-B2BA-4C49-8F9F-C734F5313348/Workshop.app/www/index.html
+2014-07-18 13:53:06.324 Workshop[1586:18e03] THREAD WARNING: ['Device'] took '34.439941' ms. Plugin should use a background thread.
+Terminating in response to SpringBoard's termination.
+2014-07-18 13:55:02.590 Workshop[1929:18e03] Multi-tasking -> Device: YES, App: YES
+2014-07-18 13:55:02.597 Workshop[1929:18e03] Unlimited access to network resources
+2014-07-18 13:55:02.603 Workshop[1929:18e03] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-07-18 13:55:02.644 Workshop[1929:18e03] Resetting plugins due to page load.
+2014-07-18 13:55:02.830 Workshop[1929:18e03] Finished load of: file:///Users/robertsc/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/851164AE-B2BA-4C49-8F9F-C734F5313348/Workshop.app/www/index.html
+2014-07-18 13:55:02.856 Workshop[1929:18e03] THREAD WARNING: ['Device'] took '10.081055' ms. Plugin should use a background thread.
+2014-07-18 13:56:48.025 Workshop[2336:18e03] Multi-tasking -> Device: YES, App: YES
+2014-07-18 13:56:48.031 Workshop[2336:18e03] Unlimited access to network resources
+2014-07-18 13:56:48.037 Workshop[2336:18e03] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-07-18 13:56:48.089 Workshop[2336:18e03] Resetting plugins due to page load.
+2014-07-18 13:56:48.144 Workshop[2336:18e03] Finished load of: file:///Users/robertsc/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/851164AE-B2BA-4C49-8F9F-C734F5313348/Workshop.app/www/index.html
+2014-07-18 13:57:25.759 Workshop[2530:18e03] Multi-tasking -> Device: YES, App: YES
+2014-07-18 13:57:25.765 Workshop[2530:18e03] Unlimited access to network resources
+2014-07-18 13:57:25.772 Workshop[2530:18e03] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-07-18 13:57:25.816 Workshop[2530:18e03] Resetting plugins due to page load.
+2014-07-18 13:57:25.872 Workshop[2530:18e03] Finished load of: file:///Users/robertsc/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/851164AE-B2BA-4C49-8F9F-C734F5313348/Workshop.app/www/index.html
+2014-07-18 14:00:16.574 Workshop[2885:18e03] Multi-tasking -> Device: YES, App: YES
+2014-07-18 14:00:16.580 Workshop[2885:18e03] Unlimited access to network resources
+2014-07-18 14:00:16.587 Workshop[2885:18e03] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-07-18 14:00:16.632 Workshop[2885:18e03] Resetting plugins due to page load.
+2014-07-18 14:00:16.693 Workshop[2885:18e03] Finished load of: file:///Users/robertsc/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/851164AE-B2BA-4C49-8F9F-C734F5313348/Workshop.app/www/index.html
+2014-07-18 14:10:53.922 Workshop[3902:18e03] Multi-tasking -> Device: YES, App: YES
+2014-07-18 14:10:53.929 Workshop[3902:18e03] Unlimited access to network resources
+2014-07-18 14:10:53.936 Workshop[3902:18e03] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-07-18 14:10:53.982 Workshop[3902:18e03] Resetting plugins due to page load.
+2014-07-18 14:10:54.038 Workshop[3902:18e03] Finished load of: file:///Users/robertsc/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/851164AE-B2BA-4C49-8F9F-C734F5313348/Workshop.app/www/index.html
+2014-07-18 14:15:46.019 Workshop[4387:18e03] Multi-tasking -> Device: YES, App: YES
+2014-07-18 14:15:46.026 Workshop[4387:18e03] Unlimited access to network resources
+2014-07-18 14:15:46.033 Workshop[4387:18e03] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-07-18 14:15:46.078 Workshop[4387:18e03] Resetting plugins due to page load.
+2014-07-18 14:15:46.132 Workshop[4387:18e03] Finished load of: file:///Users/robertsc/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/851164AE-B2BA-4C49-8F9F-C734F5313348/Workshop.app/www/index.html
+Terminating in response to SpringBoard's termination.
+2014-07-18 14:16:18.261 Workshop[4601:18e03] Multi-tasking -> Device: YES, App: YES
+2014-07-18 14:16:18.268 Workshop[4601:18e03] Unlimited access to network resources
+2014-07-18 14:16:18.275 Workshop[4601:18e03] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-07-18 14:16:18.309 Workshop[4601:18e03] Resetting plugins due to page load.
+2014-07-18 14:16:18.367 Workshop[4601:18e03] Finished load of: file:///Users/robertsc/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/851164AE-B2BA-4C49-8F9F-C734F5313348/Workshop.app/www/index.html
+2014-07-18 14:19:01.266 Workshop[4953:18e03] Multi-tasking -> Device: YES, App: YES
+2014-07-18 14:19:01.274 Workshop[4953:18e03] Unlimited access to network resources
+2014-07-18 14:19:01.280 Workshop[4953:18e03] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-07-18 14:19:01.325 Workshop[4953:18e03] Resetting plugins due to page load.
+2014-07-18 14:19:01.506 Workshop[4953:18e03] Finished load of: file:///Users/robertsc/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/851164AE-B2BA-4C49-8F9F-C734F5313348/Workshop.app/www/index.html
+2014-07-18 14:19:01.545 Workshop[4953:18e03] Create table success
+2014-07-18 14:19:01.546 Workshop[4953:18e03] INSERT success
+2014-07-18 14:19:01.546 Workshop[4953:18e03] INSERT success
+2014-07-18 14:19:01.547 Workshop[4953:18e03] INSERT success
+2014-07-18 14:19:01.547 Workshop[4953:18e03] INSERT success
+2014-07-18 14:19:01.548 Workshop[4953:18e03] INSERT success
+2014-07-18 14:19:01.548 Workshop[4953:18e03] INSERT success
+2014-07-18 14:19:01.549 Workshop[4953:18e03] INSERT success
+2014-07-18 14:19:01.549 Workshop[4953:18e03] INSERT success
+2014-07-18 14:19:01.550 Workshop[4953:18e03] INSERT success
+2014-07-18 14:19:01.551 Workshop[4953:18e03] INSERT success
+2014-07-18 14:19:01.551 Workshop[4953:18e03] INSERT success
+2014-07-18 14:19:01.552 Workshop[4953:18e03] INSERT success
+2014-07-18 14:19:01.554 Workshop[4953:18e03] Transaction success
+2014-07-18 14:19:01.555 Workshop[4953:18e03] Service initialized
+2014-07-18 14:25:03.736 Workshop[5525:18e03] Multi-tasking -> Device: YES, App: YES
+2014-07-18 14:25:03.742 Workshop[5525:18e03] Unlimited access to network resources
+2014-07-18 14:25:03.744 Workshop[5525:18e03] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-07-18 14:25:03.821 Workshop[5525:18e03] Resetting plugins due to page load.
+2014-07-18 14:25:04.096 Workshop[5525:18e03] Finished load of: file:///Users/robertsc/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/851164AE-B2BA-4C49-8F9F-C734F5313348/Workshop.app/www/index.html
+2014-07-18 14:25:04.150 Workshop[5525:18e03] THREAD WARNING: ['Device'] took '37.753174' ms. Plugin should use a background thread.
+2014-07-18 14:25:04.152 Workshop[5525:18e03] Create table success
+2014-07-18 14:25:04.152 Workshop[5525:18e03] INSERT success
+2014-07-18 14:25:04.153 Workshop[5525:18e03] INSERT success
+2014-07-18 14:25:04.154 Workshop[5525:18e03] INSERT success
+2014-07-18 14:25:04.155 Workshop[5525:18e03] INSERT success
+2014-07-18 14:25:04.156 Workshop[5525:18e03] INSERT success
+2014-07-18 14:25:04.157 Workshop[5525:18e03] INSERT success
+2014-07-18 14:25:04.158 Workshop[5525:18e03] INSERT success
+2014-07-18 14:25:04.159 Workshop[5525:18e03] INSERT success
+2014-07-18 14:25:04.160 Workshop[5525:18e03] INSERT success
+2014-07-18 14:25:04.161 Workshop[5525:18e03] INSERT success
+2014-07-18 14:25:04.162 Workshop[5525:18e03] INSERT success
+2014-07-18 14:25:04.162 Workshop[5525:18e03] INSERT success
+2014-07-18 14:26:56.707 Workshop[5822:18e03] Multi-tasking -> Device: YES, App: YES
+2014-07-18 14:26:56.725 Workshop[5822:18e03] Unlimited access to network resources
+2014-07-18 14:26:56.728 Workshop[5822:18e03] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-07-18 14:26:56.801 Workshop[5822:18e03] Resetting plugins due to page load.
+2014-07-18 14:26:57.009 Workshop[5822:18e03] Finished load of: file:///Users/robertsc/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/851164AE-B2BA-4C49-8F9F-C734F5313348/Workshop.app/www/index.html
+2014-07-18 14:26:57.063 Workshop[5822:18e03] THREAD WARNING: ['Device'] took '39.060791' ms. Plugin should use a background thread.
+2014-07-18 14:26:57.065 Workshop[5822:18e03] Create table success
+2014-07-18 14:26:57.066 Workshop[5822:18e03] INSERT success
+2014-07-18 14:26:57.067 Workshop[5822:18e03] INSERT success
+2014-07-18 14:26:57.068 Workshop[5822:18e03] INSERT success
+2014-07-18 14:26:57.069 Workshop[5822:18e03] INSERT success
+2014-07-18 14:26:57.070 Workshop[5822:18e03] INSERT success
+2014-07-18 14:26:57.071 Workshop[5822:18e03] INSERT success
+2014-07-18 14:26:57.072 Workshop[5822:18e03] INSERT success
+2014-07-18 14:26:57.073 Workshop[5822:18e03] INSERT success
+2014-07-18 14:26:57.074 Workshop[5822:18e03] INSERT success
+2014-07-18 14:26:57.075 Workshop[5822:18e03] INSERT success
+2014-07-18 14:26:57.076 Workshop[5822:18e03] INSERT success
+2014-07-18 14:26:57.077 Workshop[5822:18e03] INSERT success
+2014-07-18 14:34:06.285 Workshop[6491:18e03] Multi-tasking -> Device: YES, App: YES
+2014-07-18 14:34:06.291 Workshop[6491:18e03] Unlimited access to network resources
+2014-07-18 14:34:06.298 Workshop[6491:18e03] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-07-18 14:34:06.353 Workshop[6491:18e03] Resetting plugins due to page load.
+2014-07-18 14:34:06.533 Workshop[6491:18e03] Finished load of: file:///Users/robertsc/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/851164AE-B2BA-4C49-8F9F-C734F5313348/Workshop.app/www/index.html
+2014-07-18 14:34:06.584 Workshop[6491:18e03] THREAD WARNING: ['Device'] took '36.720947' ms. Plugin should use a background thread.
+2014-07-18 14:34:06.586 Workshop[6491:18e03] Create table success
+2014-07-18 14:34:06.587 Workshop[6491:18e03] INSERT success
+2014-07-18 14:34:06.588 Workshop[6491:18e03] INSERT success
+2014-07-18 14:34:06.589 Workshop[6491:18e03] INSERT success
+2014-07-18 14:34:06.590 Workshop[6491:18e03] INSERT success
+2014-07-18 14:34:06.591 Workshop[6491:18e03] INSERT success
+2014-07-18 14:34:06.592 Workshop[6491:18e03] INSERT success
+2014-07-18 14:34:06.593 Workshop[6491:18e03] INSERT success
+2014-07-18 14:34:06.594 Workshop[6491:18e03] INSERT success
+2014-07-18 14:34:06.595 Workshop[6491:18e03] INSERT success
+2014-07-18 14:34:06.596 Workshop[6491:18e03] INSERT success
+2014-07-18 14:34:06.597 Workshop[6491:18e03] INSERT success
+2014-07-18 14:34:06.598 Workshop[6491:18e03] INSERT success
+2014-07-18 14:36:21.482 Workshop[6804:18e03] Multi-tasking -> Device: YES, App: YES
+2014-07-18 14:36:21.488 Workshop[6804:18e03] Unlimited access to network resources
+2014-07-18 14:36:21.495 Workshop[6804:18e03] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-07-18 14:36:21.541 Workshop[6804:18e03] Resetting plugins due to page load.
+2014-07-18 14:36:21.607 Workshop[6804:18e03] Finished load of: file:///Users/robertsc/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/851164AE-B2BA-4C49-8F9F-C734F5313348/Workshop.app/www/index.html
+2014-07-18 14:36:21.628 Workshop[6804:18e03] INSERT success
+2014-07-18 14:36:21.629 Workshop[6804:18e03] INSERT success
+2014-07-18 14:36:21.630 Workshop[6804:18e03] INSERT success
+2014-07-18 14:36:21.630 Workshop[6804:18e03] INSERT success
+2014-07-18 14:36:21.631 Workshop[6804:18e03] INSERT success
+2014-07-18 14:36:21.631 Workshop[6804:18e03] INSERT success
+2014-07-18 14:36:21.632 Workshop[6804:18e03] INSERT success
+2014-07-18 14:36:21.632 Workshop[6804:18e03] INSERT success
+2014-07-18 14:36:21.633 Workshop[6804:18e03] INSERT success
+2014-07-18 14:36:21.633 Workshop[6804:18e03] INSERT success
+2014-07-18 14:36:21.634 Workshop[6804:18e03] INSERT success
+Terminating in response to SpringBoard's termination.
